@@ -26,7 +26,7 @@ public class JpaAluno {
 		
 		
 		Aluno a = new Aluno();
-		a.setNome("Daniel");
+		a.setNome("Carlos");
 		a.setRG("999999");
 		a.setCPF("999.999.999-99");
 		
